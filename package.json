@@ -1,0 +1,8 @@
+{"scripts":
+{"start":"node generate_qr_code.js",
+"dev":"node server.js"},
+"dependencies":
+{"express":"^4.18.2",
+"fs":"^0.0.1-security",
+"jimp":"^0.22.10",
+"qrcode":"^1.5.3"}}
